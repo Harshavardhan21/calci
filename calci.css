@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    
+}
+body{
+    background-color:lightgoldenrodyellow;
+}
+h1{
+    text-align: center;
+    font-size:50px;
+}
+.head{
+    background-color: lightpink;
+    height: 80px;
+}
+.operations{
+    margin-top: 100px;
+    /* margin-left: 300px; */
+    text-align: center;
+}
+.opera{
+   width: 160px;
+}
